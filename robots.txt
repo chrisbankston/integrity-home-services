@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://integrity-homeservices.com/sitemap.xml
